@@ -9,6 +9,10 @@ The website is for people living with chronic kidney disease who attend hæmodia
 * As a dialysis patient, I want to have a checklist of what to take with me to dialysis, so that I can get there with all that I need. 
 * 
 
+
+## Acknowledgements 
+* The information on the What is dialysis page? is from the National Kidney Federation https://www.kidney.org.uk/introduction-to-haemodialysis
+
 ## Features
 
 ### Existing Features
