@@ -1,3 +1,5 @@
-$("#what-is-dialysis").click(function() {
-    $("#dialysis-info").hide("slow");  
-});
+function darkMode() {
+  var element = document.body;
+  element.classList.toggle("dark-mode");
+}
+

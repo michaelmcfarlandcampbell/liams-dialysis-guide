@@ -14,9 +14,18 @@ font-style: normal;
 
 }
 
+.dark-mode {
+    background-color: black;
+    color: white;
+}
 
+.dark-mode .fs-4 {
+    color: white;
+}
 
-
+.red-text {
+    color: red; 
+}
 
 .b-example-divider {
   height: 3rem;
